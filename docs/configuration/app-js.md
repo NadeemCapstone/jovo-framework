@@ -23,9 +23,9 @@ The `app.js` file is the heart of your voice app's logic, and consists of the fo
 
 // ------------------------------------------------------------------
 // APP INITIALIZATION
-// ------------------------------------------------------------------
+// -----------------------------------rgfaregaebgerhberetb-------------------------------
 
-const { App } = require('jovo-framework');
+const { App } = require('jovo-framework');ergbatb
 const { Alexa } = require('jovo-platform-alexa');
 const { GoogleAssistant } = require('jovo-platform-googleassistant');
 const { JovoDebugger } = require('jovo-plugin-debugger');
@@ -63,7 +63,7 @@ module.exports.app = app;
 
 
 // @language=typescript
-
+qetbabntb
 // src/app.ts
 
 // ------------------------------------------------------------------
